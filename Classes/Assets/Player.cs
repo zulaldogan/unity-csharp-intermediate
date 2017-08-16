@@ -1,18 +1,17 @@
-﻿using UnityEngine;
+sing UnityEngine;
 
 public class Player : MonoBehaviour
 {
     public Item[] items;
-
     public ASL myASL;
 
-	void Start ()
+    void Start()
     {
-		
-	}
-	
-	void Update ()
+
+    }
+
+    void Update()
     {
-		
-	}
+
+    }
 }
