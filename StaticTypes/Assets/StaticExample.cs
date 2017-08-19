@@ -1,5 +1,3 @@
-﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class StaticExample : MonoBehaviour
@@ -9,15 +7,5 @@ public class StaticExample : MonoBehaviour
     public static Vector3 SetPositionZero()
     {
         return Vector3.zero;
-    }
-
-       void Start()
-    {
-
-    }
-
-    void Update()
-    {
-
     }
 }
